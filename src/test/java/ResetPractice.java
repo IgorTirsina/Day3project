@@ -5,6 +5,7 @@ public class ResetPractice {
         System.out.println("try to reset HARD way");
 
         // committing all together
+        //there was a problem with target
     }
 
 }
